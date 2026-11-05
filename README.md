@@ -2,6 +2,8 @@
 
 ## Overview
 Sebuah *dashboard* analitik interaktif yang dirancang untuk membedah pasar sewa jangka pendek Airbnb di New York City sepanjang tahun 2019[cite: 13]. Proyek ini mengubah data mentah katalog listing properti menjadi wawasan visual strategis guna memahami karakteristik tipe kamar, sebaran spasial wilayah, disparitas harga sewa, distribusi pencilan (*outliers*), hingga matriks keterkaitan antarvariabel operasional menggunakan **Tableau Desktop**.
+<img width="1755" height="1240" alt="New York Dashboard_page-0001" src="https://github.com/user-attachments/assets/8abd0a2d-863c-421b-a90a-cd3975dc1389" />
+
 
 ---
 
